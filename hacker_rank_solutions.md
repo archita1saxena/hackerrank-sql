@@ -136,7 +136,7 @@ ON city.CountryCode = country.Code
 WHERE country.continent = 'Africa';
 ```
 
-## QUERY 11: AVERAGE CITY POPULATION BY CONTINENT (ROUNDED DOWN)
+## QUERY 11: 
 
 ### PROBLEM DESCRIPTION  
 Given the CITY and COUNTRY tables, query the names of all the continents (`COUNTRY.Continent`) and their respective average city populations (`CITY.Population`) rounded down to the nearest integer.
