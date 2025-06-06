@@ -134,6 +134,7 @@ FROM city
 INNER JOIN country
 ON city.CountryCode = country.Code
 WHERE country.continent = 'Africa';
+```
 
 ## QUERY 11: AVERAGE CITY POPULATION BY CONTINENT (ROUNDED DOWN)
 
